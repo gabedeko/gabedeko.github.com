@@ -1,0 +1,29 @@
+<middle>
+	<div class="blog">
+		
+		<div class="title" id="blog_title"><h2>Blog</h2></div>
+		
+		<ul>
+		  {% for post in site.posts %}
+		    <li class="blogposts">
+		  <span class="alignleft"><a href="{{ post.url }}"><b>{{ post.title }}</b></a><a href="categories.html#{{ post.category }}-ref">({{ post.category }})</a></span><span class="alignright">{{ post.date | date_to_string }}</span>
+			</li>
+		  {% endfor %}
+		</ul>
+		
+	</div>
+	
+	<div class="projects">
+		<div class="title" id="project_title"><h2>Projects</h2></div>
+		<div class="col-md-4 col-md-offset-4">
+		<h3><a href="http://verysmartdesign.com/showcaseoe/">OnlyEcho</a></h3>
+		<p class="green-text">Blog from 2011 where me and couple of friends talked about random things tht caught our interests. It lasted for about a summer.</p>
+		</div>
+		<div class="clearfix"></div>
+	<div class="Art">
+		<div class="title" id="art_title"><h2>Art</h2></div>
+		<center><p class="green-text">Just wait on it!</p></center>		
+	</div>
+</middle>
+
+<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>

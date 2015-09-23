@@ -1,0 +1,175 @@
+/*
+ * HEADER
+ */
+
+header {
+  height: 150px;
+  background: #fff;
+  padding-bottom: 30px;
+}
+
+header .avater {
+	 display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header h1 {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-family-size: 20px;
+  font-family-weight: 700;
+  color: #000;
+}
+
+header h1 span {
+  display: inline-block;
+  padding: 0.2em;
+}
+
+hr {
+  border-color: #228B22;
+  width: 50%;
+}
+
+.nav {
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.nav li {
+  display: inline;
+  
+}
+
+.nav a {
+  display: inline-block;
+  padding: 10px;
+  color: #000;
+  text-decoration: none;
+}
+
+header .icons {
+
+	display: block;
+	margin: auto;
+    text-align: center;
+	fill: #009933;
+	padding: 15px;
+}
+
+
+header .icons img {
+	padding: 15px;
+   
+}
+
+.green-text{
+	color: #228B22;
+}
+/*
+ * FOOTER
+ */
+
+footer {
+  padding-top: 50px;
+  height: 50px;
+  background: #fff;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+.section-space {
+	padding: 0cm 0cm;
+}
+/*
+ * middle
+ */
+
+middle {
+  background: #fff;
+  font-family: 'Roboto', sans-serif;
+  padding-top: 30px;
+}
+
+middle .blog {
+	padding-top: 220px;
+}
+
+ h2 {
+  text-align: center;
+  text-align-size: 20px;
+  text-align-weight: 700;
+  color: black;
+}
+
+middle .projects {
+	padding-top: 30px;
+}
+
+middle .art {
+	padding-top:30px;
+}
+
+middle .blog ul {
+	padding: 0;
+}
+
+middle ul {
+ 
+  padding: 0;
+  text-align-size: 20px;
+  text-align-weight: 700;
+  color: #228B22;
+  text-decoration: underline;
+}
+
+.blogposts {
+  margin: auto;
+  width: 60%;
+  list-style-type: none;
+  border-bottom: 1px dotted #228B22;
+  text-decoration: none;
+  color: #228B22;
+  padding-bottom: 20px;
+}
+
+ li .alignright {
+  float: right;
+  text-align: center;
+}
+ li .alignleft {
+  color: #228B22;
+  float: left;
+  text-align: center;
+}
+ li .alignleft a {
+  color: #228B22;
+}
+
+middle ul a {
+  list-style-type: none;
+  text-decoration: none;
+  color: black;
+}
+
+.art{
+	padding-top: 30px;
+}
+/*
+ * POST
+ */
+.content {
+	padding-top: 50px;
+	margin-left: 30px;
+}
+
+
+
+
+#post_page_title{
+	text-transform: uppercase;
+}

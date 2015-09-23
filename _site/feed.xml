@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabe Deko</title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 22 Sep 2015 21:11:34 -0400</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2015 21:11:34 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Wattba</title>
+        <description>&lt;p&gt;It’s the end of summer. I’m going to miss the heat but I’m looking forward to all of the films coming out later this year and wearing sweaters again!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Sep 2015 00:00:00 -0400</pubDate>
+        <link>/thoughts/2015/09/20/WATTBA</link>
+        <guid isPermaLink="true">/thoughts/2015/09/20/WATTBA</guid>
+        
+        <category>thoughts</category>
+        
+        <category>journal</category>
+        
+        
+        <category>thoughts</category>
+        
+      </item>
+    
+  </channel>
+</rss>

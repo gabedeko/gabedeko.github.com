@@ -1,0 +1,12 @@
+
+http://gabedeko.github.com/about/
+http://gabedeko.github.com/archive.html
+http://gabedeko.github.com/atom.xml
+http://gabedeko.github.com/categories.html
+http://gabedeko.github.com/feed.xml
+http://gabedeko.github.com/index.html
+http://gabedeko.github.com/pages.html
+http://gabedeko.github.com/sitemap.txt
+http://gabedeko.github.com/tags.html
+
+http://gabedeko.github.com/thoughts/2015/09/20/WATTBA
