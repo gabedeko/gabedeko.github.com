@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Gabe Deko</title>
- <link href="http://gabedeko.github.com/atom.xml" rel="self"/>
- <link href="http://gabedeko.github.com"/>
- <updated>2015-09-22T22:06:25-04:00</updated>
- <id>http://gabedeko.github.com</id>
+ <link href="www.gabedeko.com/atom.xml" rel="self"/>
+ <link href="www.gabedeko.com"/>
+ <updated>2015-09-26T10:22:51-04:00</updated>
+ <id>www.gabedeko.com</id>
  <author>
    <name>Gabe Deko</name>
    <email>gabe.deko@gmail.com</email>
@@ -14,10 +14,10 @@
  
  <entry>
    <title>Wattba</title>
-   <link href="http://gabedeko.github.com/thoughts/2015/09/20/WATTBA"/>
+   <link href="www.gabedeko.com/thoughts/2015/09/20/WATTBA"/>
    <updated>2015-09-20T00:00:00-04:00</updated>
-   <id>http://gabedeko.github.com/thoughts/2015/09/20/WATTBA</id>
-   <content type="html">&lt;p&gt;It’s the end of summer. I’m going to miss the heat but I’m looking forward to all of the films coming out later this year and wearing sweaters again!&lt;/p&gt;
+   <id>www.gabedeko.com/thoughts/2015/09/20/WATTBA</id>
+   <content type="html">&lt;p&gt;It’s the end of summer. I’m going to miss the heat but I’m looking forward to all of the films coming out later this year and wearing sweaters again.&lt;/p&gt;
 </content>
  </entry>
  

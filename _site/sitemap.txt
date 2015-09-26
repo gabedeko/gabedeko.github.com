@@ -1,12 +1,12 @@
 
-http://gabedeko.github.com/about/
-http://gabedeko.github.com/archive.html
-http://gabedeko.github.com/atom.xml
-http://gabedeko.github.com/categories.html
-http://gabedeko.github.com/feed.xml
-http://gabedeko.github.com/index.html
-http://gabedeko.github.com/pages.html
-http://gabedeko.github.com/sitemap.txt
-http://gabedeko.github.com/tags.html
+www.gabedeko.com/about/
+www.gabedeko.com/archive.html
+www.gabedeko.com/atom.xml
+www.gabedeko.com/categories.html
+www.gabedeko.com/feed.xml
+www.gabedeko.com/index.html
+www.gabedeko.com/pages.html
+www.gabedeko.com/sitemap.txt
+www.gabedeko.com/tags.html
 
-http://gabedeko.github.com/thoughts/2015/09/20/WATTBA
+www.gabedeko.com/thoughts/2015/09/20/WATTBA
